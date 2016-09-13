@@ -269,6 +269,7 @@ Buffer
 CannotUnloadAppDomainException
 CharEnumerator
 CLSCompliantAttribute
+<<<<<<< HEAD
 Console
 ContextBoundObject
 ContextMarshalException
@@ -347,6 +348,13 @@ IComparable
 IConvertible
 ICustomFormatter
 IDisposable
+=======
+
+NonSerializedAttribute
+NotFiniteNumberException
+NotImplementedException
+
+>>>>>>> 6bf9b5e9245ea78d7f4c33cc0a5c278e3ecfe5a7
 IFormatProvider
 IFormattable
 IServiceProvider
@@ -357,6 +365,7 @@ Byte
 Char
 DateTime
 Decimal
+<<<<<<< HEAD
 Double
 Guid
 Int16
@@ -373,6 +382,9 @@ TimeSpan
 TypedReference
 UInt16
 UInt32
+=======
+
+>>>>>>> 6bf9b5e9245ea78d7f4c33cc0a5c278e3ecfe5a7
 UInt64
 UIntPtr
 Void
