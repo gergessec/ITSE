@@ -2,10 +2,6 @@ So und jetzt modifiziert.
 
 Hallo Tschanlüken
 Hallo?
-<<<<<<< HEAD
-
 
 http://giphy.com/gifs/the-simpsons-lisa-simpson-18ANhgTABn04M
-=======
 Why you do this to me? I don't like you :-(
->>>>>>> 14154c698cba8a1472391ec3bc1043cda43e456f
