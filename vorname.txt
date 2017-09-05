@@ -1,9 +1,17 @@
+<<<<<<< HEAD
+Intelligenz ist hier nicht zu finden. Und noch eine Änderung.
+
+You have a bona fide Git repository and a checkout or working copy of the files for that project. You need to make some changes and commit snapshots of those changes into your repository each time the project reaches a state you want to record.
+Hier auch noch dazwischen
+Remember that each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot; they can be unmodified, modified, or staged. Untracked files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area. When you first clone a repository, all of your files will be tracked and unmodified because you just checked them out and haven’t edited anything.
+=======
 Intelligenz ist hier nicht zu finden. Und noch eine Ã„nderung.
 noch was dazwischen
 You have a bona fide Git repository and a checkout or working copy of the files for that project. You need to make some changes and commit snapshots of those changes into your repository each time the project reaches a state you want to record.
 
 Remember that each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot; they can be unmodified, modified, or staged. Untracked files are everything else â€“ any files in your working directory that were not in your last snapshot and are not in your staging area. When you first clone a repository, all of your files will be tracked and unmodified because you just checked them out and havenâ€™t edited anything.
 
+<<<<<<< HEAD
 
 
 jklhklhjklhkjlhjkhlkj
@@ -12,3 +20,5 @@ jklhklhjklhkjlhjkhlkj
 hjhjklhjhlhjkl
 
 hjlhlhjlk
+=======
+>>>>>>> 886c1463c304acb19cbd7f008d1bfd6b6b60ac6b
