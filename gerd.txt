@@ -1,15 +1,7 @@
 Intelligence is not in this file
 
-<<<<<<< HEAD
-Jetzt kommt weiterer sinnloser Text von GG
-=======
-<<<<<<< HEAD
-Jetzt kommt weitere sinnloser Text von GG
-=======
-Jetzt kommt weitere sinnloser Text von GG
->>>>>>> 886c1463c304acb19cbd7f008d1bfd6b6b60ac6b
+Jetzt kommt weiterer sinnloser Text von GG =======
 
 Hier schreibe ich einen Text
 
 Zeile und Weile
->>>>>>> 6bf9b5e9245ea78d7f4c33cc0a5c278e3ecfe5a7
